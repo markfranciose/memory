@@ -1,0 +1,19 @@
+{
+  "name": "memory",
+  "version": "0.0.1",
+  "description": "A simple 'memory' game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markfranciose/memory.git"
+  },
+  "author": "franciose@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markfranciose/memory/issues"
+  },
+  "homepage": "https://github.com/markfranciose/memory#readme"
+}
